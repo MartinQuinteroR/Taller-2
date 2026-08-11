@@ -20,6 +20,7 @@ app.config.suppress_callback_exceptions = True
 
 
 # Load data from csv
+# Agregando comentario para commit en nueva rama
 def load_data():
     # To do: Completar la función
         # To do: Completar la función
